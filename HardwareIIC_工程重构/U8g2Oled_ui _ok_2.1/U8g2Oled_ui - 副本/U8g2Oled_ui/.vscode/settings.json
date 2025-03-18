@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "u8g2.h": "c",
+        "ui.h": "c",
+        "stm32f10x.h": "c",
+        "ui_bmp_data.h": "c",
+        "delay.h": "c"
+    }
+}
